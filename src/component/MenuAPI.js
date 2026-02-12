@@ -50,7 +50,7 @@ const Menu = [
     foodId: 5,
     foodImage: Pizza,
     foodTitle: 'Pizza',
-    foodType: 'Evening',
+    foodType: 'Snack',
     foodPrice: '80₹',
     foodDescription:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ',
@@ -86,7 +86,7 @@ const Menu = [
     foodId: 9,
     foodImage: Samosa,
     foodTitle: 'Samosa',
-    foodType: 'Evening',
+    foodType: 'Snack',
     foodPrice: '10₹',
     foodDescription:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ',
