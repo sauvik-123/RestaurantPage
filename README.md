@@ -111,22 +111,4 @@ npm run deploy
 
 ---
 
-## ⭐ Support
-
-If you like this project:
-
-👉 Give it a **star ⭐ on GitHub**
-👉 Share it with others
-
----
-
-## 📌 Future Improvements
-
-* 🔍 Search & filter functionality
-* 🛒 Add to cart feature
-* 🌐 Backend integration
-* 🎨 Dark mode support
-
----
-
 ✨ *Thank you for checking out this project!*
