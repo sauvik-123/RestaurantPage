@@ -1,49 +1,85 @@
-🍽️ Restaurant Website
-🚀 Live Demo
+# 🍽️ Restaurant Website
 
-🔗 Live Website:
-👉 https://sauvik-123.github.io/RestaurantPage/
+🚀 **Live Demo**
+🔗 https://sauvik-123.github.io/RestaurantPage/
 
-🌟 Overview
+---
 
-The Restaurant Website is a modern and responsive web application built using React + Vite + Tailwind CSS.
+## 🌟 Overview
 
-It displays a beautifully designed food menu using card components arranged in a clean grid layout. The website is fully responsive and works smoothly across different screen sizes.
+A modern, responsive **Restaurant Website** built using **React + Vite + Tailwind CSS**.
 
-🛠️ Tech Stack
+This project showcases a beautifully designed food menu using reusable card components arranged in a clean grid layout. It is optimized for all screen sizes, ensuring a smooth experience across devices.
 
-⚛️ React
-⚡ Vite
-🎨 Tailwind CSS
-📦 gh-pages (for deployment)
-🍔 Features
-🍳 Menu cards with image, title, description, type, and price
-🧭 Navigation sections (Breakfast, Lunch, Dinner)
-📱 Fully responsive layout
-🟦 Grid-based card alignment
-🔘 Interactive buttons
-🎯 Clean UI design
+---
 
-📂 Project Structure
+## 🛠️ Tech Stack
+
+* ⚛️ React
+* ⚡ Vite
+* 🎨 Tailwind CSS
+* 📦 gh-pages (Deployment)
+
+---
+
+## 🍔 Features
+
+* 🍳 **Menu Cards**
+
+  * Food image
+  * Title
+  * Description
+  * Category (Breakfast / Lunch / Dinner)
+  * Price
+
+* 🧭 **Navigation Sections**
+
+  * Easily browse Breakfast, Lunch, and Dinner
+
+* 📱 **Responsive Design**
+
+  * Works seamlessly on mobile, tablet, and desktop
+
+* 🟦 **Grid Layout**
+
+  * Clean and structured card alignment
+
+* 🔘 **Interactive UI**
+
+  * Smooth buttons and user-friendly interface
+
+* 🎯 **Modern Design**
+
+  * Minimal, clean, and visually appealing
+
+---
+
+## 📂 Project Structure
+
+```
 RestaurantPage/
 │
 ├── src/
-│   ├── components/
-│   ├── assets/
-│   └── App.jsx
+│   ├── components/   # Reusable UI components
+│   ├── assets/       # Images & static files
+│   └── App.jsx       # Main application file
 │
 ├── public/
 ├── vite.config.js
 └── package.json
+```
 
-⚙️ Installation & Setup
+---
 
-If you want to run this project locally:
+## ⚙️ Installation & Setup
 
+Run this project locally in a few simple steps:
+
+```bash
 # Clone the repository
 git clone https://github.com/sauvik-123/RestaurantPage.git
 
-# Navigate into the project folder
+# Navigate to the project folder
 cd RestaurantPage
 
 # Install dependencies
@@ -51,21 +87,46 @@ npm install
 
 # Start development server
 npm run dev
+```
 
-🚀 Deployment (GitHub Pages)
+---
 
-To deploy the project:
+## 🚀 Deployment
 
+This project is deployed using **GitHub Pages**.
+
+To deploy manually:
+
+```bash
 npm run deploy
+```
 
+---
 
-The project is hosted using GitHub Pages.
+## 👤 Author
 
-📌 Author
-👤 Sauvik Sarkar
+**Sauvik Sarkar**
 💻 B.Tech CSE (AIML) Student
 🚀 Passionate about Web Development & AI
 
-⭐ Support
+---
 
-If you like this project, consider giving it a ⭐ on GitHub!
+## ⭐ Support
+
+If you like this project:
+
+👉 Give it a **star ⭐ on GitHub**
+👉 Share it with others
+
+---
+
+## 📌 Future Improvements
+
+* 🔍 Search & filter functionality
+* 🛒 Add to cart feature
+* 🌐 Backend integration
+* 🎨 Dark mode support
+
+---
+
+✨ *Thank you for checking out this project!*
